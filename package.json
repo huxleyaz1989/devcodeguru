@@ -1,0 +1,33 @@
+{
+  "name": "devcodeguru",
+  "version": "1.0.2",
+  "description": "devcodeguru",
+  "type": "module",
+  "main": "devcodeguru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huxleyaz1989/devcodeguru"
+  },
+  "website": "https://github.com/huxleyaz1989/devcodeguru.git",
+  "keywords": [
+    "devcodeguru"
+  ],
+  "author": "huxleyaz1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huxleyaz1989/devcodeguru/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/huxleyaz1989/devcodeguru#readme",
+  "dependencies": {
+    "programcrafter": "1.0.2",
+    "codescriptgenius": "1.0.2",
+    "scriptwizard": "1.0.2"
+  }
+}
